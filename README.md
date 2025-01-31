@@ -1,11 +1,11 @@
 BookStore is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack that allows users to manage their personal book collection.
 Users can add, edit, and delete books. Authentication is implemented using JWT, ensuring that each user can only view and manage their own books.
 
-**Features**
-  User authentication using JWT (JSON Web Tokens)
-  Add new books with details
-  Edit existing books
-  Delete books
+**Features** :
+  User authentication using JWT (JSON Web Tokens),
+  Add new books with details,
+  Edit existing books,
+  Delete books,
   View books added by the logged-in user only
 
   ![image](https://github.com/user-attachments/assets/a21ffecc-8b37-4f1a-b4f8-eb0fac3ac267)
